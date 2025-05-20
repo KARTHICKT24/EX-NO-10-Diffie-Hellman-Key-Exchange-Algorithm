@@ -60,10 +60,6 @@ def main():
         print("\nKey exchange successful. Shared secret established.")
     else:
         print("\nKey exchange failed. Keys do not match.")
-
-if __name__ == "__main__":
-    main()
-
 ```
 
 
